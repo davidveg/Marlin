@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../Marlin-2.0.X-MKS-Robin-Nano"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
